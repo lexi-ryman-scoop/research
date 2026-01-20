@@ -66,8 +66,8 @@ JOB TITLES
 └── 51-500
 
 INDUSTRY & KEYWORDS
-├── Industry: Computer Software, Information Technology and Services,
-│             Marketing and Advertising, Internet
+├── Industry: computer software, information technology & services,
+│             marketing & advertising, internet
 └── Company Keywords: (optional) "B2B", "SaaS"
 
 TECHNOLOGIES (Advanced Filter)
@@ -195,8 +195,8 @@ JOB TITLES
 └── 101-500
 
 INDUSTRY & KEYWORDS
-├── Industry: Computer Software, Information Technology and Services,
-│             Financial Services, Internet
+├── Industry: computer software, information technology & services,
+│             financial services, internet
 └── Company Keywords: "SaaS", "B2B", "Series A", "Series B", "Series C"
 
 TECHNOLOGIES (Advanced Filter)
@@ -335,8 +335,8 @@ JOB TITLES
 └── 101-500
 
 INDUSTRY & KEYWORDS
-├── Industry: Computer Software, Information Technology and Services,
-│             Professional Services, Internet
+├── Industry: computer software, information technology & services,
+│             internet
 └── Company Keywords: "outbound", "sales development", "B2B"
 
 TECHNOLOGIES (Advanced Filter)
@@ -469,8 +469,8 @@ JOB TITLES
 └── 101-500
 
 INDUSTRY & KEYWORDS
-├── Industry: Computer Software, Information Technology and Services,
-│             Internet, Consumer Electronics
+├── Industry: computer software, information technology & services,
+│             internet, consumer electronics
 └── Company Keywords: "data-driven", "product analytics",
                       "product-led", "PLG", "Amplitude", "Jira"
 
@@ -612,9 +612,8 @@ JOB TITLES
 └── 51-500
 
 INDUSTRY & KEYWORDS
-├── Industry: Marketing and Advertising, Management Consulting,
-│             Professional Services, Information Technology and Services,
-│             Media Production
+├── Industry: marketing & advertising, management consulting,
+│             information technology & services, media production
 └── Company Keywords: "agency", "consulting", "professional services"
 
 TECHNOLOGIES (Advanced Filter)
@@ -778,7 +777,7 @@ JOB TITLES
 └── 21-500
 
 INDUSTRY & KEYWORDS
-├── Industry: Retail, Consumer Goods, Apparel & Fashion, E-commerce
+├── Industry: retail, consumer goods, apparel & fashion
 └── Company Keywords: "DTC", "e-commerce", "direct to consumer", "Shopify"
 
 TECHNOLOGIES (Advanced Filter)
@@ -807,8 +806,8 @@ JOB TITLES
 └── 201-1000
 
 INDUSTRY & KEYWORDS
-├── Industry: Computer Software, Financial Services,
-│             Information Technology and Services, Healthcare
+├── Industry: computer software, financial services,
+│             information technology & services, hospital & health care
 └── Company Keywords: "data-driven", "analytics", "Snowflake"
 
 TECHNOLOGIES (Advanced Filter)
@@ -838,7 +837,7 @@ JOB TITLES
 └── 101-500
 
 INDUSTRY & KEYWORDS
-├── Industry: Computer Software, Internet
+├── Industry: computer software, internet
 └── Company Keywords: "product-led", "PLG", "self-serve", "freemium"
 
 TECHNOLOGIES (Advanced Filter)
@@ -865,7 +864,7 @@ JOB TITLES
 └── 501-5000
 
 INDUSTRY & KEYWORDS
-├── Industry: Computer Software, Information Technology and Services
+├── Industry: computer software, information technology & services
 └── Company Keywords: "enterprise", "B2B"
 
 TECHNOLOGIES (Advanced Filter)
@@ -892,7 +891,7 @@ JOB TITLES
 └── 1-100
 
 INDUSTRY & KEYWORDS
-├── Industry: Computer Software, Venture Capital & Private Equity
+├── Industry: computer software, venture capital & private equity
 └── Company Keywords: "startup", "seed", "Series A", "VC-backed"
 
 TECHNOLOGIES (Advanced Filter)
@@ -919,7 +918,7 @@ JOB TITLES
 └── 11-200
 
 INDUSTRY & KEYWORDS
-├── Industry: Marketing and Advertising, Management Consulting
+├── Industry: marketing & advertising, management consulting
 └── Company Keywords: "agency", "consulting", "creative"
 
 TECHNOLOGIES (Advanced Filter)
@@ -947,7 +946,7 @@ JOB TITLES
 └── 101-5000
 
 INDUSTRY & KEYWORDS
-├── Industry: Retail, Restaurants, Hospitality, Consumer Services
+├── Industry: retail, restaurants, hospitality, consumer services
 └── Company Keywords: "franchise", "multi-location", "retail"
 
 TECHNOLOGIES (Advanced Filter)
@@ -974,7 +973,7 @@ JOB TITLES
 └── 21-200
 
 INDUSTRY & KEYWORDS
-├── Industry: Computer Software, Professional Services
+├── Industry: computer software, information technology & services
 └── Company Keywords: "outbound", "sales-led", "B2B"
 
 TECHNOLOGIES (Advanced Filter)
@@ -1159,6 +1158,91 @@ STOP CONDITIONS
 | `{{company}}` | Company name | "Acme Corp" |
 | `{{your_name}}` | Your name | "Alex" |
 | `{{link}}` | Free trial link | "https://scoop.ai/trial" |
+
+---
+
+## Complete Apollo Industry List
+
+All industries in Apollo use **lowercase** formatting with **&** instead of "and":
+
+```
+accounting                              legal services
+agriculture                             legislative office
+airlines/aviation                       leisure, travel & tourism
+alternative dispute resolution          libraries
+alternative medicine                    logistics & supply chain
+animation                               luxury goods & jewelry
+apparel & fashion                       machinery
+architecture & planning                 management consulting
+arts & crafts                           maritime
+automotive                              market research
+aviation & aerospace                    marketing & advertising
+banking                                 mechanical or industrial engineering
+biotechnology                           media production
+broadcast media                         medical devices
+building materials                      medical practice
+business supplies & equipment           mental health care
+capital markets                         military
+chemicals                               mining & metals
+civic & social organization             motion pictures & film
+civil engineering                       museums & institutions
+commercial real estate                  music
+computer & network security             nanotechnology
+computer games                          newspapers
+computer hardware                       nonprofit organization management
+computer networking                     oil & energy
+computer software                       online media
+construction                            outsourcing/offshoring
+consumer electronics                    package/freight delivery
+consumer goods                          packaging & containers
+consumer services                       paper & forest products
+cosmetics                               performing arts
+dairy                                   pharmaceuticals
+defense & space                         philanthropy
+design                                  photography
+e-learning                              plastics
+education management                    political organization
+electrical/electronic manufacturing     primary/secondary education
+entertainment                           printing
+environmental services                  professional training & coaching
+events services                         program development
+executive office                        public policy
+facilities services                     public relations & communications
+farming                                 public safety
+financial services                      publishing
+fine art                                railroad manufacture
+fishery                                 ranching
+food & beverages                        real estate
+food production                         recreational facilities & services
+fund-raising                            religious institutions
+furniture                               renewables & environment
+gambling & casinos                      research
+glass, ceramics & concrete              restaurants
+government administration               retail
+government relations                    security & investigations
+graphic design                          semiconductors
+health, wellness & fitness              shipbuilding
+higher education                        sports
+hospital & health care                  staffing & recruiting
+hospitality                             supermarkets
+human resources                         telecommunications
+import & export                         textiles
+individual & family services            think tanks
+industrial automation                   tobacco
+information services                    translation & localization
+information technology & services       transportation/trucking/railroad
+insurance                               utilities
+international affairs                   venture capital & private equity
+international trade & development       veterinary
+internet                                warehousing
+investment banking                      wholesale
+investment management                   wine & spirits
+judiciary                               wireless
+law enforcement                         writing & editing
+law practice
+```
+
+**Note:** "Professional Services" does NOT exist as a standalone industry in Apollo. Use `management consulting` or Company Keywords instead.
 
 ---
 
