@@ -37,7 +37,7 @@ All 5 segments use technologies that are:
 |------|------------|---------|----------------|-----------------|
 | **1** | HubSpot + Google Analytics + Google AdWords Conversion | Marketing Manager | 28.5% adoption among mid-market B2B companies | Campaign performance root cause analysis |
 | **2** | Google Analytics + Google AdWords Conversion + TikTok | E-commerce/DTC Marketing | Cross-channel attribution is #1 DTC marketing challenge | True ROAS across awareness vs. conversion channels |
-| **3** | Jira + Amplitude + Snowflake | Product Manager | 53% Jira usage among product teams; Amplitude-Snowflake official partnership | Feature impact analysis connecting sprint work to user behavior |
+| **3** | Jira + Amplitude + Salesforce | Product Manager | 53% Jira usage among product teams; product-led sales is top PLG trend | Feature-to-revenue analysis connecting releases to expansion/churn |
 | **4** | Salesforce + HubSpot + Snowflake | RevOps Leader | CRM + data warehouse consolidation is top RevOps priority | Unified revenue data across marketing and sales |
 | **5** | HubSpot + Airtable + QuickBooks | Agency Owner | Agencies need sales, delivery, and billing connected | True project profitability (deals → delivery → invoicing) |
 
@@ -262,18 +262,18 @@ If not the right time: No worries.
 
 ---
 
-### Segment 3: Product Managers
-**Tech Stack:** `Jira` + `Amplitude` + `Snowflake`
+### Segment 3: Product Managers (Product-Led Sales)
+**Tech Stack:** `Jira` + `Amplitude` + `Salesforce`
 
-**Research Basis:** Jira has 53% usage among product teams for sprint/project tracking. Amplitude and Snowflake have an official partnership with native integration—reflecting the trend of product teams needing behavioral analytics connected to their data warehouse. This is the dominant "modern product stack" for data-driven product teams.
+**Research Basis:** Jira has 53% usage among product teams for sprint/project tracking. Product-led sales (PLS) is the dominant go-to-market trend for SaaS companies—connecting product usage signals to sales outcomes. PMs at PLG companies need to understand which features drive expansion revenue vs. which correlate with churn risk.
 
 #### Target Profile
 | Attribute | Detail |
 |-----------|--------|
 | **Persona** | Product Manager, Senior Product Manager, Director of Product, Head of Product, VP Product |
 | **Company Size** | 50-500 employees |
-| **Pain Point** | Can't connect sprint work (Jira) to user behavior (Amplitude) to business outcomes (Snowflake); "Did that feature we shipped actually move the metrics?" |
-| **Unique Use Case** | Feature impact analysis—connecting what was built (Jira) to how users behave (Amplitude) to business outcomes (Snowflake) |
+| **Pain Point** | Can't connect sprint work (Jira) to user behavior (Amplitude) to revenue outcomes (Salesforce); "Did that feature drive expansion or churn?" |
+| **Unique Use Case** | Feature-to-revenue analysis—connecting what was built (Jira) to how users behave (Amplitude) to sales outcomes like expansion, upsell, and churn (Salesforce) |
 
 #### Apollo Search Filters
 
@@ -296,12 +296,12 @@ JOB TITLES
 INDUSTRY & KEYWORDS
 ├── Industry: computer software, information technology & services,
 │             internet, financial services
-└── Company Keywords: "SaaS", "B2B", "product-led"
+└── Company Keywords: "SaaS", "B2B", "product-led", "PLG"
 
 TECHNOLOGIES (Advanced Filter)
 ├── Jira ✅
 ├── Amplitude ✅
-└── Snowflake ✅
+└── Salesforce ✅
 
 LOCATION (optional)
 └── United States, Canada, United Kingdom, Australia
@@ -313,15 +313,15 @@ LOCATION (optional)
 
 **Email 1: The Pain Point (Day 1)**
 ```
-Subject: Did that feature actually move the metrics?
+Subject: Which features actually drive expansion revenue?
 
 Hi {{first_name}},
 
-You shipped the feature. The team celebrated. But did it actually work?
+You shipped the feature. Users adopted it. But did it drive expansion—or churn?
 
-If you're like most PMs using Jira, Amplitude, and Snowflake, answering that question means manually correlating sprint tickets, user behavior data, and business metrics across three different systems.
+If you're like most PMs at product-led companies, answering that question means manually correlating Jira releases, Amplitude usage data, and Salesforce renewal/expansion outcomes across three different systems.
 
-Scoop connects all three and automatically investigates feature impact—so you can see what's working and what's not in 45 seconds.
+Scoop connects all three and automatically investigates feature-to-revenue impact—so you can see which releases drive upgrades vs. which precede churn.
 
 14-day free trial: {{link}}
 
@@ -330,15 +330,15 @@ Scoop connects all three and automatically investigates feature impact—so you 
 
 **Email 2: The Specific Use Case (Day 4)**
 ```
-Subject: Connect what you shipped to what users did
+Subject: Connect product usage to sales outcomes
 
 {{first_name}},
 
-Quick question: When leadership asks "what's the ROI of Q3 product investments?", how long does it take to pull that together?
+Quick question: When leadership asks "which features are driving expansion revenue?", how long does it take to pull that together?
 
-Usually it means exporting Jira tickets, correlating them with Amplitude events, and joining it all in Snowflake. Hours of work.
+Usually it means exporting Jira releases, correlating them with Amplitude adoption metrics, and joining it all with Salesforce opportunity data. Hours of detective work.
 
-Scoop connects all three automatically—so you can tie sprint work to user behavior to business outcomes without the manual lift.
+Scoop connects all three automatically—so you can tie what you built to how users behave to what sales closed.
 
 Free trial: {{link}}
 
@@ -351,7 +351,7 @@ Subject: Quick question
 
 {{first_name}},
 
-Automatically connecting Jira sprint data, Amplitude user behavior, and Snowflake business metrics—would that help you answer "did this feature work?"
+Automatically connecting Jira releases, Amplitude product usage, and Salesforce revenue outcomes—would that help you answer "which features drive expansion?"
 
 If yes: {{link}}
 If not right now: No problem.
@@ -360,12 +360,12 @@ If not right now: No problem.
 ```
 
 #### A/B Test Subject Lines
-- **A:** "Did that feature actually move the metrics?"
-- **B:** "What's the ROI of your Q3 product investments?"
-- **C:** "Jira → Amplitude → Snowflake, finally connected"
+- **A:** "Which features actually drive expansion revenue?"
+- **B:** "Did that feature drive upgrades—or churn?"
+- **C:** "Jira → Amplitude → Salesforce, finally connected"
 
 #### Scoop Value Proposition
-> "Finally connect what you build to what users do to what moves the business. Scoop links your Jira sprint data, Amplitude product analytics, and Snowflake data warehouse to automatically investigate feature impact."
+> "Finally connect what you build to what users do to what sales closes. Scoop links your Jira sprint data, Amplitude product analytics, and Salesforce revenue data to automatically investigate which features drive expansion vs. churn."
 
 ---
 
@@ -643,23 +643,23 @@ Start your free 14-day trial →
 
 ---
 
-### Segment 3: Product Managers (Jira + Amplitude + Snowflake)
+### Segment 3: Product Managers (Jira + Amplitude + Salesforce)
 
 **Ad Headline Options:**
-- "Did that feature actually move the metrics?"
-- "Connect sprint work to user behavior to revenue"
-- "Jira → Amplitude → Snowflake, finally connected"
+- "Which features drive expansion revenue?"
+- "Connect product usage to sales outcomes"
+- "Jira → Amplitude → Salesforce, finally connected"
 
 **Ad Body (125 characters):**
 ```
-Scoop connects Jira, Amplitude, and Snowflake. See feature impact automatically. Free 14-day trial.
+Scoop connects Jira, Amplitude, and Salesforce. See which features drive expansion vs. churn. Free 14-day trial.
 ```
 
 **Ad Body (Long - 300 characters):**
 ```
-You shipped the feature. The team celebrated. But did it actually work?
+You shipped the feature. Users adopted it. But did it drive expansion—or churn?
 
-Scoop connects your Jira sprint data, Amplitude product analytics, and Snowflake data warehouse—so you can see feature impact in 45 seconds.
+Scoop connects your Jira releases, Amplitude usage data, and Salesforce revenue outcomes—so you can see feature-to-revenue impact in 45 seconds.
 
 Start your free 14-day trial →
 ```
@@ -903,7 +903,8 @@ STOP CONDITIONS
 
 ### Segment 3: Product Managers
 - Jira: 53% usage among product teams (Productboard State of Product Management 2024)
-- Amplitude + Snowflake: Official partnership with native integration (announced 2023)
+- Product-led sales (PLS): Dominant GTM trend for SaaS—connecting product usage to sales outcomes
+- Feature-to-revenue correlation is top PM priority at PLG companies
 
 ### Segment 4: RevOps Leaders
 - CRM + data warehouse consolidation is top RevOps priority (RevOps Co-op 2024 Survey)
