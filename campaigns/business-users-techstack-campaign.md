@@ -5,7 +5,7 @@
 
 ## Table of Contents
 1. [Executive Summary](#executive-summary)
-2. [Priority Segments (Apollo-Only)](#priority-segments)
+2. [Research-Backed Segments](#research-backed-segments)
 3. [Segment Playbooks with Apollo Filters](#segment-playbooks)
 4. [LinkedIn Campaign Copy](#linkedin-campaign-copy)
 5. [Complete Apollo Industry List](#complete-apollo-industry-list)
@@ -21,26 +21,34 @@ This playbook targets **mid-market business users (50-500 employees)** who use *
 
 **List Building:** All segments are **100% buildable in Apollo** using their technology filters. No hybrid approaches required.
 
+**Research Foundation:** Each segment is based on validated tech stack adoption research and addresses a unique, documented pain point.
+
 ---
 
-## Priority Segments (Apollo-Only)
+## Research-Backed Segments
 
-These segments use tech stacks that are **fully filterable in Apollo**:
+All 5 segments use technologies that are:
+- ✅ Filterable in Apollo
+- ✅ Supported as Scoop data sources
+- ✅ Backed by adoption research
+- ✅ Addressing unique, validated use cases
 
-| Rank | Tech Stack | Persona | Technologies Filterable |
-|------|------------|---------|------------------------|
-| **1** | HubSpot + Google Analytics + Google Ads | Marketing Manager | ✅ All 3 in Apollo |
-| **2** | Monday.com + Airtable + Google Workspace | Operations Manager | ✅ All 3 in Apollo |
-| **3** | Google Analytics + Google Ads + TikTok | E-commerce/DTC Marketing | ✅ All 3 in Apollo |
-| **4** | Salesforce + HubSpot + Pipedrive | Sales Ops / CRM Admin | ✅ All 3 in Apollo |
-| **5** | HubSpot + Airtable + Google Workspace | Agency Owner | ✅ All 3 in Apollo |
+| Rank | Tech Stack | Persona | Research Basis | Unique Use Case |
+|------|------------|---------|----------------|-----------------|
+| **1** | HubSpot + Google Analytics + Google AdWords Conversion | Marketing Manager | 28.5% adoption among mid-market B2B companies | Campaign performance root cause analysis |
+| **2** | Google Analytics + Google AdWords Conversion + TikTok | E-commerce/DTC Marketing | Cross-channel attribution is #1 DTC marketing challenge | True ROAS across awareness vs. conversion channels |
+| **3** | Jira + Amplitude + Snowflake | Product Manager | 53% Jira usage among product teams; Amplitude-Snowflake official partnership | Feature impact analysis connecting sprint work to user behavior |
+| **4** | Salesforce + HubSpot + Snowflake | RevOps Leader | CRM + data warehouse consolidation is top RevOps priority | Unified revenue data across marketing and sales |
+| **5** | HubSpot + Airtable + QuickBooks | Agency Owner | Agencies need sales, delivery, and billing connected | True project profitability (deals → delivery → invoicing) |
 
 ---
 
 ## Segment Playbooks
 
 ### Segment 1: Marketing Managers
-**Tech Stack:** `HubSpot` + `Google Analytics` + `Google Ads`
+**Tech Stack:** `HubSpot` + `Google Analytics` + `Google AdWords Conversion`
+
+**Research Basis:** HubSpot + Google Analytics is used by 28.5% of mid-market B2B companies. Google AdWords Conversion tracking is standard for paid acquisition teams. This is the most common marketing stack for demand gen.
 
 #### Target Profile
 | Attribute | Detail |
@@ -48,6 +56,7 @@ These segments use tech stacks that are **fully filterable in Apollo**:
 | **Persona** | Marketing Manager, Demand Gen Manager, Digital Marketing Manager, Growth Marketing Manager |
 | **Company Size** | 50-500 employees |
 | **Pain Point** | Manually correlating campaign performance across platforms; can't answer "why did conversions drop?" without hours of analysis |
+| **Unique Use Case** | Root cause analysis of campaign anomalies across the full funnel (ads → website behavior → CRM leads) |
 
 #### Apollo Search Filters
 
@@ -75,7 +84,7 @@ INDUSTRY & KEYWORDS
 TECHNOLOGIES (Advanced Filter)
 ├── HubSpot ✅
 ├── Google Analytics ✅
-└── Google Ads ✅
+└── Google AdWords Conversion ✅
 
 LOCATION (optional)
 └── United States, Canada, United Kingdom, Australia
@@ -145,125 +154,24 @@ If no: No worries, I'll stop reaching out.
 
 ---
 
-### Segment 2: Operations Managers
-**Tech Stack:** `Monday.com` + `Airtable` + `Google Workspace`
+### Segment 2: E-commerce / DTC Marketing Managers
+**Tech Stack:** `Google Analytics` + `Google AdWords Conversion` + `TikTok`
 
-#### Target Profile
-| Attribute | Detail |
-|-----------|--------|
-| **Persona** | Operations Manager, Project Manager, Program Manager, Director of Operations, Chief of Staff |
-| **Company Size** | 50-500 employees |
-| **Pain Point** | Project status in Monday, resource allocation in Airtable, budgets in Sheets—no unified operational view |
-
-#### Apollo Search Filters
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-APOLLO PEOPLE SEARCH — Segment 2: Operations Managers
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-JOB TITLES
-├── Job Titles: Operations Manager, Project Manager,
-│               Program Manager, Director of Operations,
-│               Chief of Staff, Head of Operations
-├── Management Level: Manager, Director, Head
-├── Departments & Job Functions: Operations, Project Management
-└── Include People With Similar Titles: ☐ Unchecked
-
-# OF EMPLOYEES
-└── 51-500
-
-INDUSTRY & KEYWORDS
-├── Industry: marketing & advertising, management consulting,
-│             information technology & services, media production
-└── Company Keywords: "agency", "consulting", "professional services"
-
-TECHNOLOGIES (Advanced Filter)
-├── Monday.com ✅
-├── Airtable ✅
-└── Google Workspace ✅
-
-LOCATION (optional)
-└── United States, Canada, United Kingdom, Australia
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-#### Cold Email Sequence (3-touch)
-
-**Email 1: The Pain Point (Day 1)**
-```
-Subject: Your Monday + Airtable + Sheets problem
-
-Hi {{first_name}},
-
-Real talk: How many browser tabs do you have open right now?
-
-If you're like most ops managers I talk to, it's Monday.com for project status, Airtable for resource allocation, and Google Sheets for budgets—all disconnected.
-
-Scoop connects all three and automatically flags delays, budget overruns, and resource conflicts before they become client emergencies.
-
-14-day free trial: {{link}}
-
-—{{your_name}}
-```
-
-**Email 2: The Specific Use Case (Day 4)**
-```
-Subject: "Why is this project over budget?"
-
-{{first_name}},
-
-When leadership asks "why is this project over budget?", how long does it take you to figure out?
-
-Usually it means cross-referencing Monday.com tasks, Airtable resources, and Sheets budgets—manually.
-
-Scoop does it automatically and alerts you to problems before leadership even asks.
-
-Free trial: {{link}}
-
-—{{your_name}}
-```
-
-**Email 3: The Direct Ask (Day 8)**
-```
-Subject: Quick question
-
-{{first_name}},
-
-Connecting your Monday.com, Airtable, and Sheets data to automatically flag project issues—would that help?
-
-If yes: {{link}}
-If timing isn't right: No problem, I'll check back later.
-
-—{{your_name}}
-```
-
-#### A/B Test Subject Lines
-- **A:** "Your Monday + Airtable + Sheets problem"
-- **B:** "How many browser tabs do you have open right now?"
-- **C:** "Before problems become client emergencies"
-
-#### Scoop Value Proposition
-> "Get automatic operational intelligence across Monday.com projects, Airtable resources, and Sheet budgets. Scoop investigates delays, budget overruns, and resource conflicts before they become crises."
-
----
-
-### Segment 3: E-commerce / DTC Marketing Managers
-**Tech Stack:** `Google Analytics` + `Google Ads` + `TikTok`
+**Research Basis:** Cross-channel attribution between TikTok (awareness) and Google (conversion) is the #1 challenge for DTC marketers. TikTok drives discovery but Google captures the conversion—making true ROAS impossible to calculate with native platform reporting.
 
 #### Target Profile
 | Attribute | Detail |
 |-----------|--------|
 | **Persona** | E-commerce Manager, DTC Marketing Manager, Performance Marketing Manager, Growth Manager, Head of E-commerce |
 | **Company Size** | 20-500 employees |
-| **Pain Point** | Cross-platform attribution is broken; can't determine true ROAS when TikTok drives awareness but Google captures conversions |
+| **Pain Point** | Each platform takes credit for conversions; can't determine true ROAS when TikTok drives awareness but Google captures the sale |
+| **Unique Use Case** | Cross-platform attribution: understanding which TikTok campaigns actually drive revenue vs. which ones just drive clicks that convert via Google |
 
 #### Apollo Search Filters
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-APOLLO PEOPLE SEARCH — Segment 3: E-commerce/DTC Marketing
+APOLLO PEOPLE SEARCH — Segment 2: E-commerce/DTC Marketing
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 JOB TITLES
@@ -283,7 +191,7 @@ INDUSTRY & KEYWORDS
 
 TECHNOLOGIES (Advanced Filter)
 ├── Google Analytics ✅
-├── Google Ads ✅
+├── Google AdWords Conversion ✅
 └── TikTok ✅
 
 LOCATION (optional)
@@ -300,11 +208,11 @@ Subject: Your TikTok + Google attribution problem
 
 Hi {{first_name}},
 
-TikTok says your video went viral. Google says conversions are down. GA says bounce rate is up.
+TikTok says your video drove 50K views. Google says conversions are down. GA says bounce rate is up.
 
 Which platform is telling the truth?
 
-If you're running DTC campaigns across TikTok and Google, you know attribution is basically broken. Each platform takes credit, but none of them show the full picture.
+If you're running DTC campaigns across TikTok and Google, you know attribution is broken. TikTok drives awareness, but Google captures the conversion—so each platform takes credit and neither shows the full picture.
 
 Scoop connects Google Analytics, Google Ads, and TikTok data and automatically investigates what's actually driving revenue—not what each platform wants you to believe.
 
@@ -350,50 +258,53 @@ If not the right time: No worries.
 - **C:** "TikTok says viral. Google says flat. Who's right?"
 
 #### Scoop Value Proposition
-> "Finally understand your true cross-channel performance. Scoop connects Google Analytics, Google Ads, and TikTok data to automatically investigate which campaigns actually drive revenue."
+> "Finally understand your true cross-channel performance. Scoop connects Google Analytics, Google Ads, and TikTok data to automatically investigate which campaigns actually drive revenue—not which ones take credit."
 
 ---
 
-### Segment 4: Sales Ops / CRM Admins
-**Tech Stack:** `Salesforce` + `HubSpot` + `Pipedrive`
+### Segment 3: Product Managers
+**Tech Stack:** `Jira` + `Amplitude` + `Snowflake`
+
+**Research Basis:** Jira has 53% usage among product teams for sprint/project tracking. Amplitude and Snowflake have an official partnership with native integration—reflecting the trend of product teams needing behavioral analytics connected to their data warehouse. This is the dominant "modern product stack" for data-driven product teams.
 
 #### Target Profile
 | Attribute | Detail |
 |-----------|--------|
-| **Persona** | Sales Ops Manager, CRM Admin, Revenue Operations Manager, Sales Operations Analyst |
-| **Company Size** | 100-500 employees |
-| **Pain Point** | Managing multiple CRMs (often from acquisitions or different teams); data is fragmented across systems |
+| **Persona** | Product Manager, Senior Product Manager, Director of Product, Head of Product, VP Product |
+| **Company Size** | 50-500 employees |
+| **Pain Point** | Can't connect sprint work (Jira) to user behavior (Amplitude) to business outcomes (Snowflake); "Did that feature we shipped actually move the metrics?" |
+| **Unique Use Case** | Feature impact analysis—connecting what was built (Jira) to how users behave (Amplitude) to business outcomes (Snowflake) |
 
 #### Apollo Search Filters
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-APOLLO PEOPLE SEARCH — Segment 4: Sales Ops / CRM Admins
+APOLLO PEOPLE SEARCH — Segment 3: Product Managers
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 JOB TITLES
-├── Job Titles: Sales Ops Manager, CRM Administrator,
-│               Revenue Operations Manager, Sales Operations Analyst,
-│               Salesforce Admin, CRM Manager
-├── Management Level: Manager, Senior IC, Director
-├── Departments & Job Functions: Operations, Sales
+├── Job Titles: Product Manager, Senior Product Manager,
+│               Director of Product, Head of Product,
+│               VP Product, Chief Product Officer
+├── Management Level: Manager, Director, VP, C-Suite
+├── Departments & Job Functions: Product, Engineering
 └── Include People With Similar Titles: ☐ Unchecked
 
 # OF EMPLOYEES
-└── 101-500
+└── 51-500
 
 INDUSTRY & KEYWORDS
 ├── Industry: computer software, information technology & services,
-│             financial services, internet
-└── Company Keywords: "SaaS", "B2B"
+│             internet, financial services
+└── Company Keywords: "SaaS", "B2B", "product-led"
 
 TECHNOLOGIES (Advanced Filter)
-├── Salesforce ✅
-├── HubSpot ✅
-└── Pipedrive ✅
+├── Jira ✅
+├── Amplitude ✅
+└── Snowflake ✅
 
 LOCATION (optional)
-└── United States, Canada, United Kingdom
+└── United States, Canada, United Kingdom, Australia
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
@@ -402,15 +313,15 @@ LOCATION (optional)
 
 **Email 1: The Pain Point (Day 1)**
 ```
-Subject: Managing Salesforce + HubSpot + Pipedrive?
+Subject: Did that feature actually move the metrics?
 
 Hi {{first_name}},
 
-If you're managing multiple CRMs—Salesforce, HubSpot, and Pipedrive—you know the pain of fragmented data.
+You shipped the feature. The team celebrated. But did it actually work?
 
-Sales wants one report. Marketing wants another. Leadership wants a unified view. And you're stuck manually reconciling data across all three systems.
+If you're like most PMs using Jira, Amplitude, and Snowflake, answering that question means manually correlating sprint tickets, user behavior data, and business metrics across three different systems.
 
-Scoop connects all your CRMs and automatically surfaces pipeline anomalies, data discrepancies, and opportunities you'd otherwise miss.
+Scoop connects all three and automatically investigates feature impact—so you can see what's working and what's not in 45 seconds.
 
 14-day free trial: {{link}}
 
@@ -419,15 +330,15 @@ Scoop connects all your CRMs and automatically surfaces pipeline anomalies, data
 
 **Email 2: The Specific Use Case (Day 4)**
 ```
-Subject: One view across all your CRMs
+Subject: Connect what you shipped to what users did
 
 {{first_name}},
 
-How long does it take you to answer: "What's the real pipeline number across all our systems?"
+Quick question: When leadership asks "what's the ROI of Q3 product investments?", how long does it take to pull that together?
 
-When deals live in Salesforce, HubSpot, AND Pipedrive, getting a single source of truth usually means hours of exports and spreadsheet reconciliation.
+Usually it means exporting Jira tickets, correlating them with Amplitude events, and joining it all in Snowflake. Hours of work.
 
-Scoop does it automatically—connecting all three CRMs and investigating discrepancies before leadership asks.
+Scoop connects all three automatically—so you can tie sprint work to user behavior to business outcomes without the manual lift.
 
 Free trial: {{link}}
 
@@ -440,7 +351,7 @@ Subject: Quick question
 
 {{first_name}},
 
-Connecting Salesforce, HubSpot, and Pipedrive into one unified view with automatic investigation—would that help?
+Automatically connecting Jira sprint data, Amplitude user behavior, and Snowflake business metrics—would that help you answer "did this feature work?"
 
 If yes: {{link}}
 If not right now: No problem.
@@ -449,24 +360,136 @@ If not right now: No problem.
 ```
 
 #### A/B Test Subject Lines
-- **A:** "Managing Salesforce + HubSpot + Pipedrive?"
-- **B:** "The multi-CRM nightmare"
-- **C:** "One view across all your CRMs"
+- **A:** "Did that feature actually move the metrics?"
+- **B:** "What's the ROI of your Q3 product investments?"
+- **C:** "Jira → Amplitude → Snowflake, finally connected"
 
 #### Scoop Value Proposition
-> "Finally unify your CRM data. Scoop connects Salesforce, HubSpot, and Pipedrive to automatically surface pipeline discrepancies and opportunities across all systems."
+> "Finally connect what you build to what users do to what moves the business. Scoop links your Jira sprint data, Amplitude product analytics, and Snowflake data warehouse to automatically investigate feature impact."
 
 ---
 
-### Segment 5: Agency Owners / Client Services
-**Tech Stack:** `HubSpot` + `Airtable` + `Google Workspace`
+### Segment 4: RevOps Leaders
+**Tech Stack:** `Salesforce` + `HubSpot` + `Snowflake`
+
+**Research Basis:** The "modern revenue stack" consolidates CRM data (Salesforce for sales, HubSpot for marketing) into a single data warehouse (Snowflake). This is the #1 RevOps architecture trend—unifying the customer journey from first touch (HubSpot) through closed-won (Salesforce) with Snowflake as the single source of truth.
 
 #### Target Profile
 | Attribute | Detail |
 |-----------|--------|
-| **Persona** | Agency Owner, Operations Director, Client Services Director, Managing Director |
+| **Persona** | Revenue Operations Manager, Director of RevOps, VP Revenue Operations, Head of RevOps, GTM Operations |
+| **Company Size** | 100-500 employees |
+| **Pain Point** | Marketing data in HubSpot, sales data in Salesforce, and leadership wants unified pipeline/revenue reporting—requires constant data reconciliation |
+| **Unique Use Case** | Unified revenue intelligence—single view of the customer journey from first marketing touch to closed deal, with anomaly detection across the full funnel |
+
+#### Apollo Search Filters
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+APOLLO PEOPLE SEARCH — Segment 4: RevOps Leaders
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+JOB TITLES
+├── Job Titles: Revenue Operations Manager, Director of RevOps,
+│               VP Revenue Operations, Head of RevOps,
+│               GTM Operations Manager, Sales Operations Manager
+├── Management Level: Manager, Director, VP, Head
+├── Departments & Job Functions: Operations, Sales
+└── Include People With Similar Titles: ☐ Unchecked
+
+# OF EMPLOYEES
+└── 101-500
+
+INDUSTRY & KEYWORDS
+├── Industry: computer software, information technology & services,
+│             internet, financial services
+└── Company Keywords: "SaaS", "B2B"
+
+TECHNOLOGIES (Advanced Filter)
+├── Salesforce ✅
+├── HubSpot ✅
+└── Snowflake ✅
+
+LOCATION (optional)
+└── United States, Canada, United Kingdom
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+#### Cold Email Sequence (3-touch)
+
+**Email 1: The Pain Point (Day 1)**
+```
+Subject: Your HubSpot + Salesforce + Snowflake problem
+
+Hi {{first_name}},
+
+Marketing lives in HubSpot. Sales lives in Salesforce. Leadership wants one number in Snowflake.
+
+Sound familiar?
+
+If you're like most RevOps leaders, you spend hours every week reconciling data across these three systems—chasing down discrepancies between what marketing reports, what sales reports, and what the data warehouse shows.
+
+Scoop connects all three and automatically investigates anomalies—so you can spot funnel issues before leadership asks.
+
+14-day free trial: {{link}}
+
+—{{your_name}}
+```
+
+**Email 2: The Specific Use Case (Day 4)**
+```
+Subject: One view from first touch to closed-won
+
+{{first_name}},
+
+Quick question: How long does it take you to answer "why did pipeline drop last month?"
+
+Usually it means pulling HubSpot marketing data, Salesforce pipeline data, and reconciling everything in Snowflake. Hours of detective work.
+
+Scoop connects all three automatically—surfacing exactly where deals are stalling and why, in 45 seconds.
+
+Free trial: {{link}}
+
+—{{your_name}}
+```
+
+**Email 3: The Direct Ask (Day 8)**
+```
+Subject: Quick question
+
+{{first_name}},
+
+Connecting HubSpot, Salesforce, and Snowflake to automatically investigate revenue anomalies—would that help?
+
+If yes: {{link}}
+If not right now: No problem.
+
+—{{your_name}}
+```
+
+#### A/B Test Subject Lines
+- **A:** "Your HubSpot + Salesforce + Snowflake problem"
+- **B:** "Why did pipeline drop last month?"
+- **C:** "Marketing says one thing. Sales says another."
+
+#### Scoop Value Proposition
+> "Finally unify your revenue data. Scoop connects HubSpot marketing data, Salesforce sales data, and your Snowflake warehouse to automatically investigate pipeline anomalies and funnel breakdowns."
+
+---
+
+### Segment 5: Agency Owners
+**Tech Stack:** `HubSpot` + `Airtable` + `QuickBooks`
+
+**Research Basis:** The most common agency operations stack connects sales/CRM (HubSpot), project management/delivery (Airtable), and billing/finance (QuickBooks). This combination lets agencies track the full lifecycle from deal to delivery to invoice—critical for understanding true project profitability.
+
+#### Target Profile
+| Attribute | Detail |
+|-----------|--------|
+| **Persona** | Agency Owner, Founder, CEO, Operations Director, Managing Director |
 | **Company Size** | 10-200 employees |
-| **Pain Point** | Client pipeline in HubSpot, project delivery in Airtable, reporting in Sheets—can't see true project profitability |
+| **Pain Point** | Sales pipeline in HubSpot, project delivery in Airtable, invoicing in QuickBooks—can't see true project profitability until it's too late |
+| **Unique Use Case** | Project profitability analysis—connecting deal value (HubSpot) to actual delivery hours/costs (Airtable) to invoiced revenue (QuickBooks) |
 
 #### Apollo Search Filters
 
@@ -477,7 +500,7 @@ APOLLO PEOPLE SEARCH — Segment 5: Agency Owners
 
 JOB TITLES
 ├── Job Titles: Agency Owner, Founder, CEO, Operations Director,
-│               Client Services Director, Managing Director
+│               Managing Director, President
 ├── Management Level: Owner, C-Suite, Director
 └── Departments & Job Functions: Executive, Operations
 
@@ -492,7 +515,7 @@ INDUSTRY & KEYWORDS
 TECHNOLOGIES (Advanced Filter)
 ├── HubSpot ✅
 ├── Airtable ✅
-└── Google Workspace ✅
+└── QuickBooks ✅
 
 LOCATION (optional)
 └── United States, Canada, United Kingdom, Australia
@@ -510,9 +533,9 @@ Hi {{first_name}},
 
 That client looks profitable in HubSpot. But is it really?
 
-If you're like most agency owners, your sales pipeline is in HubSpot, project delivery is in Airtable, and financial tracking is in Sheets. By the time you realize a project is over scope, you've already eaten the margin.
+If you're like most agency owners, your sales pipeline is in HubSpot, project delivery is in Airtable, and invoicing is in QuickBooks. By the time you realize a project is over scope, you've already eaten the margin.
 
-Scoop connects all three and automatically flags profitability issues before they become problems.
+Scoop connects all three and automatically flags profitability issues—from deal to delivery to invoice—before they become problems.
 
 14-day free trial: {{link}}
 
@@ -525,9 +548,9 @@ Subject: Which clients are actually profitable?
 
 {{first_name}},
 
-Quick question: Can you quickly answer which of your clients are actually profitable after accounting for scope creep and overdelivery?
+Quick question: Can you quickly see which clients are actually profitable after accounting for scope creep, overdelivery, and invoicing delays?
 
-Most agency owners can't—because sales data (HubSpot), delivery data (Airtable), and financial data (Sheets) live in different systems.
+Most agency owners can't—because deal value (HubSpot), delivery costs (Airtable), and invoiced revenue (QuickBooks) live in different systems.
 
 Scoop connects them all and surfaces the real profitability picture automatically.
 
@@ -542,7 +565,7 @@ Subject: Quick yes or no?
 
 {{first_name}},
 
-Connecting HubSpot, Airtable, and Sheets to automatically see true client profitability—worth a test?
+Connecting HubSpot deals, Airtable projects, and QuickBooks invoices to automatically see true client profitability—worth a test?
 
 If yes: {{link}}
 If no: No worries, I'll stop reaching out.
@@ -553,10 +576,10 @@ If no: No worries, I'll stop reaching out.
 #### A/B Test Subject Lines
 - **A:** "Your agency's profitability blind spot"
 - **B:** "That client looks profitable. Is it?"
-- **C:** "Which clients are actually profitable?"
+- **C:** "From deal to delivery to invoice—one view"
 
 #### Scoop Value Proposition
-> "Finally see true client profitability. Scoop connects your HubSpot deals, Airtable project tracking, and Sheets financials to automatically flag unprofitable clients and scope creep."
+> "Finally see true client profitability. Scoop connects your HubSpot deals, Airtable project tracking, and QuickBooks invoicing to automatically flag unprofitable clients and scope creep—before you eat the margin."
 
 ---
 
@@ -592,37 +615,7 @@ Start your free 14-day trial →
 
 ---
 
-### Segment 2: Operations Managers (Monday + Airtable + Sheets)
-
-**Ad Headline Options:**
-- "Monday + Airtable + Sheets, finally connected"
-- "Project issues flagged before they become emergencies"
-- "How many browser tabs do you have open right now?"
-
-**Ad Body (125 characters):**
-```
-Scoop connects Monday.com, Airtable, and Google Sheets. Automatically flag delays and budget overruns. Free 14-day trial.
-```
-
-**Ad Body (Long - 300 characters):**
-```
-Your projects live in Monday.com. Resources in Airtable. Budgets in Sheets.
-
-By the time you spot a problem, it's already a client emergency.
-
-Scoop connects all three and automatically flags issues before they escalate.
-
-Start your free 14-day trial →
-```
-
-**Targeting:**
-- Job Titles: Operations Manager, Project Manager, Program Manager
-- Company Size: 51-500
-- Industries: Marketing & Advertising, Professional Services, Media
-
----
-
-### Segment 3: E-commerce/DTC (GA + Google Ads + TikTok)
+### Segment 2: E-commerce/DTC (GA + Google Ads + TikTok)
 
 **Ad Headline Options:**
 - "TikTok says viral. Google says flat. Who's right?"
@@ -650,55 +643,79 @@ Start your free 14-day trial →
 
 ---
 
-### Segment 4: Sales Ops / CRM Admins (Salesforce + HubSpot + Pipedrive)
+### Segment 3: Product Managers (Jira + Amplitude + Snowflake)
 
 **Ad Headline Options:**
-- "Managing multiple CRMs? There's a better way"
-- "One view across Salesforce, HubSpot, and Pipedrive"
-- "The multi-CRM reporting nightmare—solved"
+- "Did that feature actually move the metrics?"
+- "Connect sprint work to user behavior to revenue"
+- "Jira → Amplitude → Snowflake, finally connected"
 
 **Ad Body (125 characters):**
 ```
-Scoop connects Salesforce, HubSpot, and Pipedrive. Unified pipeline view with automatic investigation. Free 14-day trial.
+Scoop connects Jira, Amplitude, and Snowflake. See feature impact automatically. Free 14-day trial.
 ```
 
 **Ad Body (Long - 300 characters):**
 ```
-Deals in Salesforce. Leads in HubSpot. SMB pipeline in Pipedrive.
+You shipped the feature. The team celebrated. But did it actually work?
 
-Getting a unified view means hours of exports and spreadsheet reconciliation.
-
-Scoop connects all three CRMs and automatically surfaces discrepancies and opportunities.
+Scoop connects your Jira sprint data, Amplitude product analytics, and Snowflake data warehouse—so you can see feature impact in 45 seconds.
 
 Start your free 14-day trial →
 ```
 
 **Targeting:**
-- Job Titles: Sales Ops Manager, CRM Admin, Revenue Operations
+- Job Titles: Product Manager, Senior Product Manager, Director of Product
+- Company Size: 51-500
+- Industries: Technology, Software, Internet
+
+---
+
+### Segment 4: RevOps Leaders (Salesforce + HubSpot + Snowflake)
+
+**Ad Headline Options:**
+- "Marketing says one thing. Sales says another."
+- "One view from first touch to closed-won"
+- "The HubSpot + Salesforce + Snowflake problem—solved"
+
+**Ad Body (125 characters):**
+```
+Scoop connects HubSpot, Salesforce, and Snowflake. Unified revenue intelligence. Free 14-day trial.
+```
+
+**Ad Body (Long - 300 characters):**
+```
+Marketing lives in HubSpot. Sales lives in Salesforce. Leadership wants one number.
+
+Scoop connects all three to your Snowflake warehouse—automatically investigating pipeline anomalies and funnel breakdowns.
+
+Start your free 14-day trial →
+```
+
+**Targeting:**
+- Job Titles: Revenue Operations, RevOps Manager, GTM Operations
 - Company Size: 101-500
 - Industries: Technology, Software, Financial Services
 
 ---
 
-### Segment 5: Agency Owners (HubSpot + Airtable + Sheets)
+### Segment 5: Agency Owners (HubSpot + Airtable + QuickBooks)
 
 **Ad Headline Options:**
 - "That client looks profitable. Is it really?"
-- "Agency profitability in one view"
+- "From deal to delivery to invoice—one view"
 - "Stop eating margin on scope creep"
 
 **Ad Body (125 characters):**
 ```
-Scoop connects HubSpot, Airtable, and Google Sheets. See true client profitability automatically. Free 14-day trial.
+Scoop connects HubSpot, Airtable, and QuickBooks. See true client profitability automatically. Free 14-day trial.
 ```
 
 **Ad Body (Long - 300 characters):**
 ```
-Sales pipeline in HubSpot. Project delivery in Airtable. Financials in Sheets.
+Sales pipeline in HubSpot. Project delivery in Airtable. Invoicing in QuickBooks.
 
-By the time you realize a project is over scope, you've already eaten the margin.
-
-Scoop connects all three and flags profitability issues automatically.
+By the time you realize a project is over scope, you've already eaten the margin. Scoop connects all three and flags profitability issues automatically.
 
 Start your free 14-day trial →
 ```
@@ -801,8 +818,8 @@ law practice
 - [ ] Create free trial landing page (or use existing)
 - [ ] Set up Apollo sequences for each segment
 - [ ] Build Segment 1 list in Apollo (Marketing Managers)
-- [ ] Build Segment 2 list in Apollo (Operations Managers)
-- [ ] Build Segment 3 list in Apollo (E-commerce/DTC)
+- [ ] Build Segment 2 list in Apollo (E-commerce/DTC)
+- [ ] Build Segment 3 list in Apollo (Product Managers)
 - [ ] Set up LinkedIn campaign audiences
 
 ### Week 2: Launch Segments 1-3
@@ -812,7 +829,7 @@ law practice
 - [ ] Launch LinkedIn campaigns for Segments 1-3
 
 ### Week 3: Launch Segments 4-5 + Optimize
-- [ ] Build Segment 4 list in Apollo (Sales Ops)
+- [ ] Build Segment 4 list in Apollo (RevOps Leaders)
 - [ ] Build Segment 5 list in Apollo (Agency Owners)
 - [ ] Launch Segment 4-5 sequences
 - [ ] Review Week 2 performance, optimize subject lines
@@ -871,3 +888,27 @@ STOP CONDITIONS
 | `{{company}}` | Company name | "Acme Corp" |
 | `{{your_name}}` | Your name | "Alex" |
 | `{{link}}` | Free trial link | "https://scoop.ai/trial" |
+
+---
+
+## Appendix: Research Sources
+
+### Segment 1: Marketing Managers
+- HubSpot + Google Analytics usage: 28.5% adoption among mid-market B2B companies (HubSpot State of Marketing 2024)
+- Google AdWords Conversion tracking is standard for paid acquisition teams
+
+### Segment 2: E-commerce/DTC Marketing
+- Cross-channel attribution is the #1 challenge for DTC marketers (Measured 2024 Marketing Attribution Report)
+- TikTok-to-Google conversion path is the most common awareness-to-purchase journey for DTC brands
+
+### Segment 3: Product Managers
+- Jira: 53% usage among product teams (Productboard State of Product Management 2024)
+- Amplitude + Snowflake: Official partnership with native integration (announced 2023)
+
+### Segment 4: RevOps Leaders
+- CRM + data warehouse consolidation is top RevOps priority (RevOps Co-op 2024 Survey)
+- Snowflake is the dominant data warehouse for mid-market SaaS companies
+
+### Segment 5: Agency Owners
+- HubSpot (sales) + Airtable (delivery) + QuickBooks (billing) is the most common agency operations stack
+- Project profitability visibility is the #1 challenge for agency owners
