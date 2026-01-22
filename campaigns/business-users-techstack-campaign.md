@@ -871,13 +871,3 @@ STOP CONDITIONS
 | `{{company}}` | Company name | "Acme Corp" |
 | `{{your_name}}` | Your name | "Alex" |
 | `{{link}}` | Free trial link | "https://scoop.ai/trial" |
-
----
-
-## Research Sources
-
-- [Apollo Knowledge Base - Search Filters Overview](https://knowledge.apollo.io/hc/en-us/articles/4412665755661-Search-Filters-Overview)
-- [Apollo - Technologies Filter Options](https://knowledge.apollo.io/hc/en-us/articles/4409227995405-Technologies-Filter-Options)
-- [Apollo - Industry Filter Options](https://knowledge.apollo.io/hc/en-us/articles/4409230850189-Industry-Filter-Options)
-- [Netguru - Sales Tech Stack 2025](https://www.netguru.com/blog/sales-tech-stack)
-- [Sacra Research - Salesforce, Amplitude, Fat Data Layer](https://sacra.com/research/salesforce-amplitude-fat-data-layer-b2b-saas/)
