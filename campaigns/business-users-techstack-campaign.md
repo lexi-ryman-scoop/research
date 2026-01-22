@@ -37,7 +37,7 @@ All 5 segments use technologies that are:
 |------|------------|---------|----------------|-----------------|
 | **1** | HubSpot + Google Analytics + Google AdWords Conversion | Marketing Manager | 28.5% adoption among mid-market B2B companies | Campaign performance root cause analysis |
 | **2** | Google Analytics + Google AdWords Conversion + TikTok | E-commerce/DTC Marketing | Cross-channel attribution is #1 DTC marketing challenge | True ROAS across awareness vs. conversion channels |
-| **3** | Jira + Amplitude + Salesforce | Product Manager | 53% Jira usage among product teams; product-led sales is top PLG trend | Feature-to-revenue analysis connecting releases to expansion/churn |
+| **3** | Jira + Google Analytics + Salesforce | Product Manager | 53% Jira usage among product teams; product-led sales is top PLG trend | Feature-to-revenue analysis connecting releases to engagement to deals |
 | **4** | Salesforce + HubSpot + Snowflake | RevOps Leader | CRM + data warehouse consolidation is top RevOps priority | Unified revenue data across marketing and sales |
 | **5** | HubSpot + Airtable + QuickBooks | Agency Owner | Agencies need sales, delivery, and billing connected | True project profitability (deals → delivery → invoicing) |
 
@@ -263,17 +263,17 @@ If not the right time: No worries.
 ---
 
 ### Segment 3: Product Managers (Product-Led Sales)
-**Tech Stack:** `Jira` + `Amplitude` + `Salesforce`
+**Tech Stack:** `Jira` + `Google Analytics` + `Salesforce`
 
-**Research Basis:** Jira has 53% usage among product teams for sprint/project tracking. Product-led sales (PLS) is the dominant go-to-market trend for SaaS companies—connecting product usage signals to sales outcomes. PMs at PLG companies need to understand which features drive expansion revenue vs. which correlate with churn risk.
+**Research Basis:** Jira has 53% usage among product teams for sprint/project tracking. Product-led sales (PLS) is the dominant go-to-market trend for SaaS companies—connecting product engagement signals to sales outcomes. PMs need to understand which features drive user engagement and ultimately revenue.
 
 #### Target Profile
 | Attribute | Detail |
 |-----------|--------|
 | **Persona** | Product Manager, Senior Product Manager, Director of Product, Head of Product, VP Product |
 | **Company Size** | 50-500 employees |
-| **Pain Point** | Can't connect sprint work (Jira) to user behavior (Amplitude) to revenue outcomes (Salesforce); "Did that feature drive expansion or churn?" |
-| **Unique Use Case** | Feature-to-revenue analysis—connecting what was built (Jira) to how users behave (Amplitude) to sales outcomes like expansion, upsell, and churn (Salesforce) |
+| **Pain Point** | Can't connect sprint work (Jira) to user engagement (Google Analytics) to revenue outcomes (Salesforce); "Did that feature drive engagement and deals?" |
+| **Unique Use Case** | Feature-to-revenue analysis—connecting what was built (Jira) to how users engage (Google Analytics) to sales outcomes like expansion and churn (Salesforce) |
 
 #### Apollo Search Filters
 
@@ -300,7 +300,7 @@ INDUSTRY & KEYWORDS
 
 TECHNOLOGIES (Advanced Filter)
 ├── Jira ✅
-├── Amplitude ✅
+├── Google Analytics ✅
 └── Salesforce ✅
 
 LOCATION (optional)
@@ -313,15 +313,15 @@ LOCATION (optional)
 
 **Email 1: The Pain Point (Day 1)**
 ```
-Subject: Which features actually drive expansion revenue?
+Subject: Which features actually drive revenue?
 
 Hi {{first_name}},
 
-You shipped the feature. Users adopted it. But did it drive expansion—or churn?
+You shipped the feature. Users engaged with it. But did it drive deals—or churn?
 
-If you're like most PMs at product-led companies, answering that question means manually correlating Jira releases, Amplitude usage data, and Salesforce renewal/expansion outcomes across three different systems.
+If you're like most PMs at product-led companies, answering that question means manually correlating Jira releases, Google Analytics engagement data, and Salesforce pipeline outcomes across three different systems.
 
-Scoop connects all three and automatically investigates feature-to-revenue impact—so you can see which releases drive upgrades vs. which precede churn.
+Scoop connects all three and automatically investigates feature-to-revenue impact—so you can see which releases drive deals vs. which precede churn.
 
 14-day free trial: {{link}}
 
@@ -330,15 +330,15 @@ Scoop connects all three and automatically investigates feature-to-revenue impac
 
 **Email 2: The Specific Use Case (Day 4)**
 ```
-Subject: Connect product usage to sales outcomes
+Subject: Connect product engagement to sales outcomes
 
 {{first_name}},
 
-Quick question: When leadership asks "which features are driving expansion revenue?", how long does it take to pull that together?
+Quick question: When leadership asks "which features are driving revenue?", how long does it take to pull that together?
 
-Usually it means exporting Jira releases, correlating them with Amplitude adoption metrics, and joining it all with Salesforce opportunity data. Hours of detective work.
+Usually it means exporting Jira releases, correlating them with Google Analytics engagement metrics, and joining it all with Salesforce opportunity data. Hours of detective work.
 
-Scoop connects all three automatically—so you can tie what you built to how users behave to what sales closed.
+Scoop connects all three automatically—so you can tie what you built to how users engage to what sales closed.
 
 Free trial: {{link}}
 
@@ -351,7 +351,7 @@ Subject: Quick question
 
 {{first_name}},
 
-Automatically connecting Jira releases, Amplitude product usage, and Salesforce revenue outcomes—would that help you answer "which features drive expansion?"
+Automatically connecting Jira releases, Google Analytics engagement, and Salesforce revenue outcomes—would that help you answer "which features drive deals?"
 
 If yes: {{link}}
 If not right now: No problem.
@@ -360,12 +360,12 @@ If not right now: No problem.
 ```
 
 #### A/B Test Subject Lines
-- **A:** "Which features actually drive expansion revenue?"
-- **B:** "Did that feature drive upgrades—or churn?"
-- **C:** "Jira → Amplitude → Salesforce, finally connected"
+- **A:** "Which features actually drive revenue?"
+- **B:** "Did that feature drive deals—or churn?"
+- **C:** "Jira → Google Analytics → Salesforce, finally connected"
 
 #### Scoop Value Proposition
-> "Finally connect what you build to what users do to what sales closes. Scoop links your Jira sprint data, Amplitude product analytics, and Salesforce revenue data to automatically investigate which features drive expansion vs. churn."
+> "Finally connect what you build to what users do to what sales closes. Scoop links your Jira sprint data, Google Analytics engagement, and Salesforce revenue data to automatically investigate which features drive deals vs. churn."
 
 ---
 
@@ -643,23 +643,23 @@ Start your free 14-day trial →
 
 ---
 
-### Segment 3: Product Managers (Jira + Amplitude + Salesforce)
+### Segment 3: Product Managers (Jira + Google Analytics + Salesforce)
 
 **Ad Headline Options:**
-- "Which features drive expansion revenue?"
-- "Connect product usage to sales outcomes"
-- "Jira → Amplitude → Salesforce, finally connected"
+- "Which features actually drive revenue?"
+- "Connect product engagement to sales outcomes"
+- "Jira → Google Analytics → Salesforce, finally connected"
 
 **Ad Body (125 characters):**
 ```
-Scoop connects Jira, Amplitude, and Salesforce. See which features drive expansion vs. churn. Free 14-day trial.
+Scoop connects Jira, Google Analytics, and Salesforce. See which features drive deals vs. churn. Free 14-day trial.
 ```
 
 **Ad Body (Long - 300 characters):**
 ```
-You shipped the feature. Users adopted it. But did it drive expansion—or churn?
+You shipped the feature. Users engaged with it. But did it drive deals—or churn?
 
-Scoop connects your Jira releases, Amplitude usage data, and Salesforce revenue outcomes—so you can see feature-to-revenue impact in 45 seconds.
+Scoop connects your Jira releases, Google Analytics engagement, and Salesforce revenue outcomes—so you can see feature-to-revenue impact in 45 seconds.
 
 Start your free 14-day trial →
 ```
@@ -903,8 +903,8 @@ STOP CONDITIONS
 
 ### Segment 3: Product Managers
 - Jira: 53% usage among product teams (Productboard State of Product Management 2024)
-- Product-led sales (PLS): Dominant GTM trend for SaaS—connecting product usage to sales outcomes
-- Feature-to-revenue correlation is top PM priority at PLG companies
+- Product-led sales (PLS): Dominant GTM trend for SaaS—connecting product engagement to sales outcomes
+- Google Analytics widely used for product/web engagement tracking in SaaS companies
 
 ### Segment 4: RevOps Leaders
 - CRM + data warehouse consolidation is top RevOps priority (RevOps Co-op 2024 Survey)
