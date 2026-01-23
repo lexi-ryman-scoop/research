@@ -29,3 +29,37 @@ Place exports here:
 - GSC 404 exports → `data/gsc/`
 - Webflow exports → `data/`
 - Apollo/outreach lists → `data/`
+- SEMrush audit exports → `data/`
+
+## SEMrush + Webflow Integration
+
+Automated SEO fix system that connects SEMrush site audits to Webflow.
+
+### Quick Start
+
+```bash
+# 1. Set your API credentials
+export SEMRUSH_API_KEY="your-key"
+export SEMRUSH_PROJECT_ID="your-project-id"
+export WEBFLOW_API_TOKEN="your-token"
+export WEBFLOW_SITE_ID="your-site-id"
+
+# 2. Scan for SEO issues
+node seo-fixer.js scan
+
+# 3. Preview fixes
+node seo-fixer.js fix --dry-run
+
+# 4. Apply fixes
+node seo-fixer.js fix
+```
+
+### Scripts
+
+| Script | Purpose |
+|--------|---------|
+| `semrush-api.js` | Pull SEMrush site audit data |
+| `webflow-cms.js` | Manage Webflow CMS content |
+| `seo-fixer.js` | Combined tool to auto-fix SEO issues |
+
+See **[SEMRUSH-WEBFLOW-SETUP.md](SEMRUSH-WEBFLOW-SETUP.md)** for full setup instructions.
