@@ -17,7 +17,7 @@
 
 This playbook targets **mid-market business users (50-500 employees)** who use **3 specific data sources together**. The campaign goal is **free trial signups** via **cold email through Apollo** and **LinkedIn advertising campaigns**.
 
-**Key insight:** Scoop's Domain Intelligence platform connects multiple data sources and autonomously investigates anomalies—turning hours of manual analysis into 45-second automated investigations.
+**Key insight:** Scoop is an autonomous AI data analyst—not another dashboard. Ask "why did conversions drop?" and Scoop investigates across all your data sources, forms hypotheses, tests them systematically, and delivers root causes in 45 seconds. 87% of insights discovered are ones teams "never would have found."
 
 **List Building:** All segments are **100% buildable in Apollo** using their technology filters. No hybrid approaches required.
 
@@ -96,61 +96,63 @@ LOCATION (optional)
 
 **Email 1: The Pain Point (Day 1)**
 ```
-Subject: Your HubSpot + GA + Google Ads data problem
+Subject: Why did conversions drop last Tuesday?
 
 Hi {{first_name}},
 
-Quick question: When your CEO asks "why did conversions drop last week," how long does it take you to answer?
+That's the kind of question that takes most marketing teams 2-3 hours to answer—pulling exports from HubSpot, GA, and Google Ads, then hunting through spreadsheets for patterns.
 
-If you're like most marketing managers using HubSpot, Google Analytics, and Google Ads, the answer is "2-3 hours of pulling data and correlating spreadsheets."
+Scoop is an AI analyst that investigates for you. Ask "why did conversions drop?" and it analyzes your HubSpot, GA, and Google Ads data simultaneously—testing hypotheses, going 3 layers deep, and returning something like:
 
-That's what Scoop fixes. It connects all three platforms and automatically investigates anomalies—so you wake up to answers, not questions.
+"Conversions dropped 23% because your top ad set exhausted budget at 2pm while CPCs spiked 40% from a competitor entering the auction."
 
-Worth a 14-day free trial to see how it works?
+That's the answer. In 45 seconds. No digging.
 
-{{link}}
+14-day free trial: {{link}}
 
 —{{your_name}}
 ```
 
-**Email 2: The Social Proof (Day 4)**
+**Email 2: The Insight (Day 4)**
 ```
-Subject: How marketing teams cut investigation time by 95%
+Subject: The insights you're not finding
 
 {{first_name}},
 
-Following up on my last note about connecting HubSpot, Google Analytics, and Google Ads data.
+Here's what's wild: 87% of insights Scoop surfaces are ones teams say they "never would have found."
 
-The typical marketing manager spends 2+ hours investigating when campaigns underperform. Scoop reduces that to 45 seconds—automatically correlating data across all three platforms.
+Not because the data wasn't there—it was sitting in HubSpot, GA, and Google Ads the whole time. But manually correlating three platforms to find root causes? Nobody has time for that.
 
-No SQL. No data team requests. Just answers.
+Scoop does. It's an AI analyst that investigates your data 24/7—forming hypotheses, testing them, and surfacing patterns humans miss.
 
-Here's the free trial if you want to test it: {{link}}
+One customer found $3.2M in revenue opportunities hiding in their existing data.
+
+Worth a look? {{link}}
 
 —{{your_name}}
 ```
 
 **Email 3: The Direct Ask (Day 8)**
 ```
-Subject: Quick yes or no?
+Subject: Quick question
 
 {{first_name}},
 
-Just checking—is automatically investigating your HubSpot + Google Analytics + Google Ads data something that would save you time?
+Would it help to have an AI analyst that investigates your HubSpot + GA + Google Ads data and tells you *why* things happen—not just what happened?
 
 If yes: {{link}} (14-day free trial)
-If no: No worries, I'll stop reaching out.
+If not right now: No worries.
 
 —{{your_name}}
 ```
 
 #### A/B Test Subject Lines
-- **A:** "Your HubSpot + GA + Google Ads data problem"
-- **B:** "When your CEO asks why conversions dropped..."
-- **C:** "2 hours → 45 seconds"
+- **A:** "Why did conversions drop last Tuesday?"
+- **B:** "The insights you're not finding"
+- **C:** "$3.2M hiding in their data"
 
 #### Scoop Value Proposition
-> "Wake up to automated investigation of why yesterday's campaigns underperformed. Scoop connects your HubSpot leads, GA behavior data, and Google Ads spend to automatically surface root causes."
+> "Scoop is an AI analyst that investigates your marketing data. Ask 'why did conversions drop?' and get root causes in 45 seconds—not dashboards to dig through."
 
 ---
 
@@ -204,61 +206,67 @@ LOCATION (optional)
 
 **Email 1: The Pain Point (Day 1)**
 ```
-Subject: Your TikTok + Google attribution problem
+Subject: TikTok takes credit. Google takes credit. Who's lying?
 
 Hi {{first_name}},
 
-TikTok says your video drove 50K views. Google says conversions are down. GA says bounce rate is up.
+TikTok says your video drove 50K views. Google says it drove the conversions. GA says bounce rate is up.
 
-Which platform is telling the truth?
+They can't all be right.
 
-If you're running DTC campaigns across TikTok and Google, you know attribution is broken. TikTok drives awareness, but Google captures the conversion—so each platform takes credit and neither shows the full picture.
+Scoop is an AI analyst that investigates your actual customer journey—not what each platform wants you to believe. Ask "which TikTok campaigns actually drive purchases?" and it analyzes GA, Google Ads, and TikTok data simultaneously, then tells you something like:
 
-Scoop connects Google Analytics, Google Ads, and TikTok data and automatically investigates what's actually driving revenue—not what each platform wants you to believe.
+"TikTok campaign X drives awareness but 73% of those users convert via branded Google search within 48 hours. True ROAS is 4.2x, not 1.1x."
+
+That's the real story. In 45 seconds.
 
 14-day free trial: {{link}}
 
 —{{your_name}}
 ```
 
-**Email 2: The Specific Use Case (Day 4)**
+**Email 2: The Insight (Day 4)**
 ```
-Subject: Which campaigns actually drive revenue?
+Subject: Your best TikTok campaign might be a Google campaign
 
 {{first_name}},
 
-Quick question: Can you confidently say which of your TikTok campaigns actually drove purchases last month vs. which ones just drove clicks that converted via Google?
+Here's a pattern Scoop keeps finding for DTC brands:
 
-Most e-commerce marketers can't—because the data lives in three different platforms with three different attribution models.
+The TikTok campaigns that look worst in TikTok's dashboard are often the best revenue drivers—because they create demand that converts via Google 2-3 days later.
 
-Scoop connects them all and tells you the real story in 45 seconds.
+But you'd never know that from looking at each platform's reports.
 
-Free trial: {{link}}
+Scoop investigates the full journey across GA, Google Ads, and TikTok. It tests hypotheses automatically, finds the hidden attribution paths, and shows you where your budget is actually working.
+
+87% of insights are ones teams say they "never would have found."
+
+Worth a look? {{link}}
 
 —{{your_name}}
 ```
 
 **Email 3: The Direct Ask (Day 8)**
 ```
-Subject: Worth a test?
+Subject: Quick question
 
 {{first_name}},
 
-Connecting your Google Analytics, Google Ads, and TikTok data to automatically see real attribution—worth a 14-day test?
+Would it help to have an AI analyst that investigates your TikTok + Google data and tells you which campaigns *actually* drive revenue—not which ones take credit?
 
-If yes: {{link}}
-If not the right time: No worries.
+If yes: {{link}} (14-day free trial)
+If not right now: No worries.
 
 —{{your_name}}
 ```
 
 #### A/B Test Subject Lines
-- **A:** "Your TikTok + Google attribution problem"
-- **B:** "Which platform is lying about conversions?"
-- **C:** "TikTok says viral. Google says flat. Who's right?"
+- **A:** "TikTok takes credit. Google takes credit. Who's lying?"
+- **B:** "Your best TikTok campaign might be a Google campaign"
+- **C:** "The attribution problem nobody talks about"
 
 #### Scoop Value Proposition
-> "Finally understand your true cross-channel performance. Scoop connects Google Analytics, Google Ads, and TikTok data to automatically investigate which campaigns actually drive revenue—not which ones take credit."
+> "Scoop is an AI analyst that investigates cross-channel attribution. Ask 'which TikTok campaigns actually drive revenue?' and get the real customer journey—not what each platform claims."
 
 ---
 
@@ -313,34 +321,40 @@ LOCATION (optional)
 
 **Email 1: The Pain Point (Day 1)**
 ```
-Subject: Which features actually drive revenue?
+Subject: Did that feature drive expansion—or churn?
 
 Hi {{first_name}},
 
-You shipped the feature. Users engaged with it. But did it drive deals—or churn?
+You shipped it. Users adopted it. But what happened to revenue?
 
-If you're like most PMs at product-led companies, answering that question means manually correlating Jira releases, Google Analytics engagement data, and Salesforce pipeline outcomes across three different systems.
+That's the question PMs at product-led companies can never quite answer—because the data lives in three places: Jira (what you built), GA (how users engaged), and Salesforce (what happened to deals).
 
-Scoop connects all three and automatically investigates feature-to-revenue impact—so you can see which releases drive deals vs. which precede churn.
+Scoop is an AI analyst that investigates that question for you. Ask "which features correlate with expansion?" and it analyzes all three systems simultaneously, then tells you something like:
+
+"Feature X adoption correlates with 2.3x higher expansion rate. Users who engage within 7 days of release have 67% lower churn."
+
+That's the insight. In 45 seconds. No SQL, no exports, no waiting on the data team.
 
 14-day free trial: {{link}}
 
 —{{your_name}}
 ```
 
-**Email 2: The Specific Use Case (Day 4)**
+**Email 2: The Insight (Day 4)**
 ```
-Subject: Connect product engagement to sales outcomes
+Subject: The feature-revenue connection nobody tracks
 
 {{first_name}},
 
-Quick question: When leadership asks "which features are driving revenue?", how long does it take to pull that together?
+Here's what Scoop keeps finding for product-led teams:
 
-Usually it means exporting Jira releases, correlating them with Google Analytics engagement metrics, and joining it all with Salesforce opportunity data. Hours of detective work.
+The features that look best in adoption dashboards aren't always the ones driving revenue. Sometimes the "meh" features are the ones that correlate with expansion and retention—you just couldn't see it because the data was spread across Jira, GA, and Salesforce.
 
-Scoop connects all three automatically—so you can tie what you built to how users engage to what sales closed.
+Scoop investigates these connections automatically. It forms hypotheses, tests statistical significance, and surfaces patterns humans miss.
 
-Free trial: {{link}}
+87% of insights are ones teams say they "never would have found."
+
+Worth a look? {{link}}
 
 —{{your_name}}
 ```
@@ -351,21 +365,21 @@ Subject: Quick question
 
 {{first_name}},
 
-Automatically connecting Jira releases, Google Analytics engagement, and Salesforce revenue outcomes—would that help you answer "which features drive deals?"
+Would it help to have an AI analyst that investigates which features actually drive expansion and churn—connecting Jira, GA, and Salesforce data automatically?
 
-If yes: {{link}}
-If not right now: No problem.
+If yes: {{link}} (14-day free trial)
+If not right now: No worries.
 
 —{{your_name}}
 ```
 
 #### A/B Test Subject Lines
-- **A:** "Which features actually drive revenue?"
-- **B:** "Did that feature drive deals—or churn?"
-- **C:** "Jira → Google Analytics → Salesforce, finally connected"
+- **A:** "Did that feature drive expansion—or churn?"
+- **B:** "The feature-revenue connection nobody tracks"
+- **C:** "Which features actually drive deals?"
 
 #### Scoop Value Proposition
-> "Finally connect what you build to what users do to what sales closes. Scoop links your Jira sprint data, Google Analytics engagement, and Salesforce revenue data to automatically investigate which features drive deals vs. churn."
+> "Scoop is an AI analyst that investigates feature-to-revenue impact. Ask 'which features correlate with expansion?' and get statistical insights in 45 seconds—connecting Jira, GA, and Salesforce automatically."
 
 ---
 
@@ -420,36 +434,40 @@ LOCATION (optional)
 
 **Email 1: The Pain Point (Day 1)**
 ```
-Subject: Your HubSpot + Salesforce + Snowflake problem
+Subject: Why did pipeline drop 15% last month?
 
 Hi {{first_name}},
 
-Marketing lives in HubSpot. Sales lives in Salesforce. Leadership wants one number in Snowflake.
+That's the question that takes most RevOps teams days to answer—pulling HubSpot data, reconciling with Salesforce, querying Snowflake, and building spreadsheets until the picture comes into focus.
 
-Sound familiar?
+Scoop is an AI analyst that investigates that question in 45 seconds.
 
-If you're like most RevOps leaders, you spend hours every week reconciling data across these three systems—chasing down discrepancies between what marketing reports, what sales reports, and what the data warehouse shows.
+Ask "why did pipeline drop?" and it analyzes HubSpot, Salesforce, and Snowflake simultaneously—testing hypotheses, going 3 layers deep, and returning something like:
 
-Scoop connects all three and automatically investigates anomalies—so you can spot funnel issues before leadership asks.
+"Pipeline dropped 15% due to 40% decline in enterprise segment. Root cause: MQL-to-SQL conversion fell from 23% to 12% after the website redesign on March 3rd."
+
+That's the answer. With statistical confidence. No exports, no reconciliation, no waiting.
 
 14-day free trial: {{link}}
 
 —{{your_name}}
 ```
 
-**Email 2: The Specific Use Case (Day 4)**
+**Email 2: The Insight (Day 4)**
 ```
-Subject: One view from first touch to closed-won
+Subject: The funnel leaks you're not seeing
 
 {{first_name}},
 
-Quick question: How long does it take you to answer "why did pipeline drop last month?"
+Here's what Scoop keeps finding for RevOps teams:
 
-Usually it means pulling HubSpot marketing data, Salesforce pipeline data, and reconciling everything in Snowflake. Hours of detective work.
+The pipeline problems that look like "sales issues" are often marketing issues 6 weeks earlier. And the "marketing problems" are sometimes pricing or product issues that surface in the data but get missed because the analysis is too manual.
 
-Scoop connects all three automatically—surfacing exactly where deals are stalling and why, in 45 seconds.
+Scoop investigates across HubSpot, Salesforce, and Snowflake automatically. It forms hypotheses, tests significance, and goes 3 layers deep to find root causes—not just symptoms.
 
-Free trial: {{link}}
+87% of insights are ones teams say they "never would have found."
+
+Worth a look? {{link}}
 
 —{{your_name}}
 ```
@@ -460,21 +478,21 @@ Subject: Quick question
 
 {{first_name}},
 
-Connecting HubSpot, Salesforce, and Snowflake to automatically investigate revenue anomalies—would that help?
+Would it help to have an AI analyst that investigates revenue anomalies across HubSpot, Salesforce, and Snowflake—and tells you *why* pipeline dropped, not just that it dropped?
 
-If yes: {{link}}
-If not right now: No problem.
+If yes: {{link}} (14-day free trial)
+If not right now: No worries.
 
 —{{your_name}}
 ```
 
 #### A/B Test Subject Lines
-- **A:** "Your HubSpot + Salesforce + Snowflake problem"
-- **B:** "Why did pipeline drop last month?"
+- **A:** "Why did pipeline drop 15% last month?"
+- **B:** "The funnel leaks you're not seeing"
 - **C:** "Marketing says one thing. Sales says another."
 
 #### Scoop Value Proposition
-> "Finally unify your revenue data. Scoop connects HubSpot marketing data, Salesforce sales data, and your Snowflake warehouse to automatically investigate pipeline anomalies and funnel breakdowns."
+> "Scoop is an AI analyst that investigates revenue anomalies. Ask 'why did pipeline drop?' and get root causes in 45 seconds—analyzing HubSpot, Salesforce, and Snowflake simultaneously."
 
 ---
 
@@ -527,59 +545,65 @@ LOCATION (optional)
 
 **Email 1: The Pain Point (Day 1)**
 ```
-Subject: Your agency's profitability blind spot
+Subject: That client looks profitable. Is it?
 
 Hi {{first_name}},
 
-That client looks profitable in HubSpot. But is it really?
+In HubSpot, the deal looks great. But by the time you reconcile Airtable hours and QuickBooks invoices, the margin's gone.
 
-If you're like most agency owners, your sales pipeline is in HubSpot, project delivery is in Airtable, and invoicing is in QuickBooks. By the time you realize a project is over scope, you've already eaten the margin.
+Sound familiar?
 
-Scoop connects all three and automatically flags profitability issues—from deal to delivery to invoice—before they become problems.
+Scoop is an AI analyst that investigates profitability across all three systems. Ask "which clients are actually profitable?" and it analyzes HubSpot, Airtable, and QuickBooks simultaneously—then tells you something like:
+
+"Client X shows 40% margin in HubSpot but actual margin is 12% after scope creep. 67% of overages come from the strategy phase. Similar pattern on 4 other accounts."
+
+That's the insight. In 45 seconds. Before you've eaten the margin.
 
 14-day free trial: {{link}}
 
 —{{your_name}}
 ```
 
-**Email 2: The Specific Use Case (Day 4)**
+**Email 2: The Insight (Day 4)**
 ```
-Subject: Which clients are actually profitable?
+Subject: The clients killing your margin
 
 {{first_name}},
 
-Quick question: Can you quickly see which clients are actually profitable after accounting for scope creep, overdelivery, and invoicing delays?
+Here's what Scoop keeps finding for agencies:
 
-Most agency owners can't—because deal value (HubSpot), delivery costs (Airtable), and invoiced revenue (QuickBooks) live in different systems.
+The clients that look best in your sales pipeline are often the ones killing your margin—because scope creep and overdelivery happen in Airtable, but you don't see the damage until QuickBooks. By then it's too late.
 
-Scoop connects them all and surfaces the real profitability picture automatically.
+Scoop investigates profitability across HubSpot, Airtable, and QuickBooks automatically. It finds patterns humans miss—like which project types always run over, which account managers consistently over-scope, which clients negotiate hard then demand more.
 
-Free trial: {{link}}
+87% of insights are ones teams say they "never would have found."
+
+Worth a look? {{link}}
 
 —{{your_name}}
 ```
 
 **Email 3: The Direct Ask (Day 8)**
 ```
-Subject: Quick yes or no?
+Subject: Quick question
 
 {{first_name}},
 
-Connecting HubSpot deals, Airtable projects, and QuickBooks invoices to automatically see true client profitability—worth a test?
+Would it help to have an AI analyst that investigates client profitability across HubSpot, Airtable, and QuickBooks—and tells you which clients are killing your margin before it's too late?
 
-If yes: {{link}}
-If no: No worries, I'll stop reaching out.
+If yes: {{link}} (14-day free trial)
+If not right now: No worries.
 
 —{{your_name}}
 ```
 
 #### A/B Test Subject Lines
-- **A:** "Your agency's profitability blind spot"
-- **B:** "That client looks profitable. Is it?"
-- **C:** "From deal to delivery to invoice—one view"
+- **A:** "That client looks profitable. Is it?"
+- **B:** "The clients killing your margin"
+- **C:** "87% of insights you'd never find manually"
 
 #### Scoop Value Proposition
-> "Finally see true client profitability. Scoop connects your HubSpot deals, Airtable project tracking, and QuickBooks invoicing to automatically flag unprofitable clients and scope creep—before you eat the margin."
+> "Scoop is an AI analyst that investigates agency profitability. Ask 'which clients are actually profitable?' and get insights in 45 seconds—connecting HubSpot deals, Airtable delivery, and QuickBooks invoicing automatically."
 
 ---
 
@@ -590,20 +614,22 @@ Use these for LinkedIn sponsored content / ads targeting each segment.
 ### Segment 1: Marketing Managers (HubSpot + GA + Google Ads)
 
 **Ad Headline Options:**
-- "Your HubSpot + GA + Google Ads data problem—solved"
-- "Stop spending 2 hours investigating campaign drops"
-- "Marketing attribution in 45 seconds, not 2 hours"
+- "Why did conversions drop? (answered in 45 seconds)"
+- "An AI analyst for your marketing data"
+- "87% of insights you'd never find manually"
 
 **Ad Body (125 characters):**
 ```
-Scoop connects HubSpot, Google Analytics, and Google Ads. Get automatic investigation of campaign anomalies. Free 14-day trial.
+Ask Scoop "why did conversions drop?" It investigates HubSpot, GA & Google Ads and delivers root causes in 45 seconds. Free trial.
 ```
 
 **Ad Body (Long - 300 characters):**
 ```
-When campaigns underperform, most marketing managers spend 2+ hours pulling data from HubSpot, GA, and Google Ads to figure out why.
+"Why did conversions drop last week?"
 
-Scoop connects all three and automatically investigates anomalies—surfacing root causes in 45 seconds.
+That question takes most teams 2+ hours to answer. Scoop is an AI analyst that investigates your HubSpot, GA, and Google Ads data—and delivers root causes in 45 seconds.
+
+87% of insights are ones teams "never would have found."
 
 Start your free 14-day trial →
 ```
@@ -618,22 +644,24 @@ Start your free 14-day trial →
 ### Segment 2: E-commerce/DTC (GA + Google Ads + TikTok)
 
 **Ad Headline Options:**
-- "TikTok says viral. Google says flat. Who's right?"
-- "Cross-channel attribution that actually works"
-- "Stop each platform taking credit for conversions"
+- "TikTok takes credit. Google takes credit. Who's lying?"
+- "An AI analyst that investigates attribution"
+- "Your best TikTok campaign might be a Google campaign"
 
 **Ad Body (125 characters):**
 ```
-Scoop connects Google Analytics, Google Ads, and TikTok. See real attribution across channels. Free 14-day trial.
+Scoop investigates your real customer journey across TikTok, Google Ads & GA. See which campaigns actually drive revenue. Free trial.
 ```
 
 **Ad Body (Long - 300 characters):**
 ```
-TikTok says your video drove 10K visits. Google Ads says it drove 5K conversions. GA says bounce rate is up.
+TikTok takes credit. Google takes credit. They can't both be right.
 
-Each platform tells a different story. Scoop connects them all and shows you what's actually driving revenue.
+Scoop is an AI analyst that investigates your actual customer journey—testing hypotheses and finding patterns like "TikTok drives awareness, converts via Google 48 hours later."
 
-Start your free 14-day trial →
+87% of insights you'd never find manually.
+
+Free trial →
 ```
 
 **Targeting:**
@@ -646,20 +674,22 @@ Start your free 14-day trial →
 ### Segment 3: Product Managers (Jira + Google Analytics + Salesforce)
 
 **Ad Headline Options:**
+- "Did that feature drive expansion—or churn?"
+- "An AI analyst for product-led teams"
 - "Which features actually drive revenue?"
-- "Connect product engagement to sales outcomes"
-- "Jira → Google Analytics → Salesforce, finally connected"
 
 **Ad Body (125 characters):**
 ```
-Scoop connects Jira, Google Analytics, and Salesforce. See which features drive deals vs. churn. Free 14-day trial.
+Ask Scoop "which features drive expansion?" It investigates Jira, GA & Salesforce—and finds patterns humans miss. Free trial.
 ```
 
 **Ad Body (Long - 300 characters):**
 ```
-You shipped the feature. Users engaged with it. But did it drive deals—or churn?
+You shipped the feature. Users adopted it. But did it drive expansion—or churn?
 
-Scoop connects your Jira releases, Google Analytics engagement, and Salesforce revenue outcomes—so you can see feature-to-revenue impact in 45 seconds.
+Scoop is an AI analyst that investigates Jira, GA, and Salesforce data—finding correlations between releases and revenue that humans miss.
+
+87% of insights you'd never find manually.
 
 Start your free 14-day trial →
 ```
@@ -674,20 +704,22 @@ Start your free 14-day trial →
 ### Segment 4: RevOps Leaders (Salesforce + HubSpot + Snowflake)
 
 **Ad Headline Options:**
-- "Marketing says one thing. Sales says another."
-- "One view from first touch to closed-won"
-- "The HubSpot + Salesforce + Snowflake problem—solved"
+- "Why did pipeline drop 15%? (answered in 45 seconds)"
+- "An AI analyst for your revenue stack"
+- "The funnel leaks you're not seeing"
 
 **Ad Body (125 characters):**
 ```
-Scoop connects HubSpot, Salesforce, and Snowflake. Unified revenue intelligence. Free 14-day trial.
+Ask Scoop "why did pipeline drop?" It investigates HubSpot, Salesforce & Snowflake—and delivers root causes in 45 seconds. Free trial.
 ```
 
 **Ad Body (Long - 300 characters):**
 ```
-Marketing lives in HubSpot. Sales lives in Salesforce. Leadership wants one number.
+"Why did pipeline drop last month?"
 
-Scoop connects all three to your Snowflake warehouse—automatically investigating pipeline anomalies and funnel breakdowns.
+That question takes most RevOps teams days. Scoop is an AI analyst that investigates HubSpot, Salesforce, and Snowflake—going 3 layers deep to find root causes, not symptoms.
+
+87% of insights you'd never find manually.
 
 Start your free 14-day trial →
 ```
@@ -702,20 +734,22 @@ Start your free 14-day trial →
 ### Segment 5: Agency Owners (HubSpot + Airtable + QuickBooks)
 
 **Ad Headline Options:**
-- "That client looks profitable. Is it really?"
-- "From deal to delivery to invoice—one view"
-- "Stop eating margin on scope creep"
+- "That client looks profitable. Is it?"
+- "An AI analyst for agency profitability"
+- "The clients killing your margin"
 
 **Ad Body (125 characters):**
 ```
-Scoop connects HubSpot, Airtable, and QuickBooks. See true client profitability automatically. Free 14-day trial.
+Ask Scoop "which clients are profitable?" It investigates HubSpot, Airtable & QuickBooks—and finds margin killers. Free trial.
 ```
 
 **Ad Body (Long - 300 characters):**
 ```
-Sales pipeline in HubSpot. Project delivery in Airtable. Invoicing in QuickBooks.
+That client looks profitable in HubSpot. But is it?
 
-By the time you realize a project is over scope, you've already eaten the margin. Scoop connects all three and flags profitability issues automatically.
+Scoop is an AI analyst that investigates HubSpot deals, Airtable delivery, and QuickBooks invoicing—finding the clients killing your margin before it's too late.
+
+87% of insights you'd never find manually.
 
 Start your free 14-day trial →
 ```
