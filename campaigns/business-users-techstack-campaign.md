@@ -96,9 +96,11 @@ LOCATION (optional)
 
 **Email 1: The Pain Point (Day 1)**
 ```
-Subject: Why did conversions drop last Tuesday?
+Subject: quick question
 
 Hi {{first_name}},
+
+"Why did conversions drop last Tuesday?"
 
 That's the kind of question that takes most marketing teams 2-3 hours to answer—pulling exports from HubSpot, GA, and Google Ads, then hunting through spreadsheets for patterns.
 
@@ -115,7 +117,7 @@ That's the answer. In 45 seconds. No digging.
 
 **Email 2: The Insight (Day 4)**
 ```
-Subject: The insights you're not finding
+Subject: re: marketing data
 
 {{first_name}},
 
@@ -134,7 +136,7 @@ Worth a look? {{link}}
 
 **Email 3: The Direct Ask (Day 8)**
 ```
-Subject: Quick question
+Subject: one more thing
 
 {{first_name}},
 
@@ -147,9 +149,9 @@ If not right now: No worries.
 ```
 
 #### A/B Test Subject Lines
-- **A:** "Why did conversions drop last Tuesday?"
-- **B:** "The insights you're not finding"
-- **C:** "$3.2M hiding in their data"
+- **A:** "quick question"
+- **B:** "{{first_name}} - marketing question"
+- **C:** "re: hubspot + ga"
 
 #### Scoop Value Proposition
 > "Scoop is an AI analyst that investigates your marketing data. Ask 'why did conversions drop?' and get root causes in 45 seconds—not dashboards to dig through."
@@ -206,7 +208,7 @@ LOCATION (optional)
 
 **Email 1: The Pain Point (Day 1)**
 ```
-Subject: TikTok takes credit. Google takes credit. Who's lying?
+Subject: attribution question
 
 Hi {{first_name}},
 
@@ -227,7 +229,7 @@ That's the real story. In 45 seconds.
 
 **Email 2: The Insight (Day 4)**
 ```
-Subject: Your best TikTok campaign might be a Google campaign
+Subject: re: tiktok + google
 
 {{first_name}},
 
@@ -248,7 +250,7 @@ Worth a look? {{link}}
 
 **Email 3: The Direct Ask (Day 8)**
 ```
-Subject: Quick question
+Subject: one more thing
 
 {{first_name}},
 
@@ -261,9 +263,9 @@ If not right now: No worries.
 ```
 
 #### A/B Test Subject Lines
-- **A:** "TikTok takes credit. Google takes credit. Who's lying?"
-- **B:** "Your best TikTok campaign might be a Google campaign"
-- **C:** "The attribution problem nobody talks about"
+- **A:** "attribution question"
+- **B:** "{{first_name}} - quick question"
+- **C:** "re: tiktok + google"
 
 #### Scoop Value Proposition
 > "Scoop is an AI analyst that investigates cross-channel attribution. Ask 'which TikTok campaigns actually drive revenue?' and get the real customer journey—not what each platform claims."
@@ -321,7 +323,7 @@ LOCATION (optional)
 
 **Email 1: The Pain Point (Day 1)**
 ```
-Subject: Did that feature drive expansion—or churn?
+Subject: feature question
 
 Hi {{first_name}},
 
@@ -342,7 +344,7 @@ That's the insight. In 45 seconds. No SQL, no exports, no waiting on the data te
 
 **Email 2: The Insight (Day 4)**
 ```
-Subject: The feature-revenue connection nobody tracks
+Subject: re: feature impact
 
 {{first_name}},
 
@@ -361,7 +363,7 @@ Worth a look? {{link}}
 
 **Email 3: The Direct Ask (Day 8)**
 ```
-Subject: Quick question
+Subject: one more thing
 
 {{first_name}},
 
@@ -374,9 +376,9 @@ If not right now: No worries.
 ```
 
 #### A/B Test Subject Lines
-- **A:** "Did that feature drive expansion—or churn?"
-- **B:** "The feature-revenue connection nobody tracks"
-- **C:** "Which features actually drive deals?"
+- **A:** "feature question"
+- **B:** "{{first_name}} - quick question"
+- **C:** "re: jira + salesforce"
 
 #### Scoop Value Proposition
 > "Scoop is an AI analyst that investigates feature-to-revenue impact. Ask 'which features correlate with expansion?' and get statistical insights in 45 seconds—connecting Jira, GA, and Salesforce automatically."
@@ -434,9 +436,11 @@ LOCATION (optional)
 
 **Email 1: The Pain Point (Day 1)**
 ```
-Subject: Why did pipeline drop 15% last month?
+Subject: pipeline question
 
 Hi {{first_name}},
+
+"Why did pipeline drop 15% last month?"
 
 That's the question that takes most RevOps teams days to answer—pulling HubSpot data, reconciling with Salesforce, querying Snowflake, and building spreadsheets until the picture comes into focus.
 
@@ -455,7 +459,7 @@ That's the answer. With statistical confidence. No exports, no reconciliation, n
 
 **Email 2: The Insight (Day 4)**
 ```
-Subject: The funnel leaks you're not seeing
+Subject: re: revenue data
 
 {{first_name}},
 
@@ -474,7 +478,7 @@ Worth a look? {{link}}
 
 **Email 3: The Direct Ask (Day 8)**
 ```
-Subject: Quick question
+Subject: one more thing
 
 {{first_name}},
 
@@ -487,9 +491,9 @@ If not right now: No worries.
 ```
 
 #### A/B Test Subject Lines
-- **A:** "Why did pipeline drop 15% last month?"
-- **B:** "The funnel leaks you're not seeing"
-- **C:** "Marketing says one thing. Sales says another."
+- **A:** "pipeline question"
+- **B:** "{{first_name}} - quick question"
+- **C:** "re: your rev stack"
 
 #### Scoop Value Proposition
 > "Scoop is an AI analyst that investigates revenue anomalies. Ask 'why did pipeline drop?' and get root causes in 45 seconds—analyzing HubSpot, Salesforce, and Snowflake simultaneously."
@@ -545,7 +549,7 @@ LOCATION (optional)
 
 **Email 1: The Pain Point (Day 1)**
 ```
-Subject: That client looks profitable. Is it?
+Subject: profitability question
 
 Hi {{first_name}},
 
@@ -566,7 +570,7 @@ That's the insight. In 45 seconds. Before you've eaten the margin.
 
 **Email 2: The Insight (Day 4)**
 ```
-Subject: The clients killing your margin
+Subject: re: client margins
 
 {{first_name}},
 
@@ -585,7 +589,7 @@ Worth a look? {{link}}
 
 **Email 3: The Direct Ask (Day 8)**
 ```
-Subject: Quick question
+Subject: one more thing
 
 {{first_name}},
 
@@ -598,9 +602,9 @@ If not right now: No worries.
 ```
 
 #### A/B Test Subject Lines
-- **A:** "That client looks profitable. Is it?"
-- **B:** "The clients killing your margin"
-- **C:** "87% of insights you'd never find manually"
+- **A:** "profitability question"
+- **B:** "{{first_name}} - quick question"
+- **C:** "re: client margins"
 
 #### Scoop Value Proposition
 > "Scoop is an AI analyst that investigates agency profitability. Ask 'which clients are actually profitable?' and get insights in 45 seconds—connecting HubSpot deals, Airtable delivery, and QuickBooks invoicing automatically."
